@@ -1,4 +1,4 @@
-# Chris Melvin | lonestarr.xyz@gmail.com | 704-968-2858
+## Chris Melvin | lonestarr.xyz@gmail.com | 704-968-2858
 
 ## Why me?
 
