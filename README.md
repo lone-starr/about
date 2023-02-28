@@ -1,10 +1,14 @@
-## Chris Melvin | lonestarr.xyz@gmail.com | 704-968-2858
+# Chris Melvin 
 
 ## Why me?
 
 I am a bitcoiner. I believe strongly in the need for decentralized hard money. I have worked in the banking industry for 20+ years and bring a deep understanding of traditional finance technology. My life goal is to help iterate the financial industry in a way that will provide inclusion, sound Austrian economics, and fairness for everyone. I am committed to spending the remainder of my time on Earth working diligently toward this outcome to benefit all humanity.
 
 ## How to find me?
+
+Email: lonestarr.xyz@gmail.com
+
+Phone: 704-968-2858
 
 Github: https://github.com/lonestarr-btc
 
