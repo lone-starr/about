@@ -14,8 +14,6 @@ I am a bitcoiner. I believe strongly in the need for decentralized hard money. I
 
 - Github: https://github.com/lonestarr-btc
 
-- Nostr: https://iris.to/npub10fwmj7wvkz5tufhlqqpzehdgnzu2d0vpch3nvv4dk2cldkmwpyhq672jxs 
-
 ## Bitcoin Experience
 
 - Class of 2017 HODLer
