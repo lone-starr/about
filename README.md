@@ -18,9 +18,8 @@ I am a bitcoiner. I believe strongly in the need for decentralized hard money. I
 
 - Class of 2017 HODLer
 - Run bitcoin node 
-    https://bitnodes.io/nodes/66.169.22.177-8333/
 - Run lightning node 
-    https://amboss.space/node/02b4c197f40e64571cab643a789e507c0052af9e31ae4bbea46ae657914ddf99ae
+
 
 ## Professional Experience
 
