@@ -72,7 +72,5 @@ I was hired to provide primary support of the Bank’s Audit Department Novell N
 
 ## Education
 
-High Point University - High Point, NC
-B.S. Computer Information Systems
-3.9 GPA in Major
-August 2001
+### High Point University - High Point, NC
+**B.S. Computer Information Systems** - August 2001
