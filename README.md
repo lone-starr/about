@@ -60,7 +60,7 @@ In this position I worked with Wealth Management business analysts and project m
 ### Volvo Commercial Finance - Senior Development Analyst
 **April 2001 - June 2003**
 
-I was hired as a developer on the company’s newly established web based credit card management application. After working initially on general support and development of the web application I was tagged to design and develop the Flex Bill automatic payment solution. This effort required me to work with our providers to develop backend processes for debiting accounts as well as develop the web front end. 
+I was hired as a developer on the company’s newly established web based credit card management application. After working initially on general support and development of the web application I was tagged to design and develop the Flex Bill automatic payment solution. This effort required me to work with our providers to develop backend processes for debiting accounts as well as develop the web front end. Sole developer on end-to-end payment processing. Volvo ran the credit card business as a start-up, very small subsiderary.
 
 ### Wachovia Corporation - Distributed Application Programmer
 **March 2000 - April 2001**
