@@ -37,12 +37,12 @@ After years of providing technical leadership to projects at the Federal Reserve
 I was drawn to the Federal Reserve to be part of a Consumer Compliance application development team. Having worked in the banking industry leading up to the 2008 financial crisis, I felt driven to be part of the solution for consumers impacted by the subprime mortgage crisis. I lead discussions with economists and subject matter experts to prototype a new Fair Lending Tool application supporting redlining examinations. Redlining is when lenders avoid underwriting loans backed by properties in certain geographic areas based on race or ethnicity demographics of the area. I led ongoing development and operations for this application until 2015 when I took over technical leadership of our interagency data exchange application development team. I held this role until I took over as manager for my previous team in November 2018.
  
 
-### Wachovia - Developer
+### Wachovia - Software Developer
 **September 2007 – January 2009**
 
 I was hired along with three other colleagues to bring an application back onshore. This application was used to grade commercial credit consistently across the enterprise. I spent the majority of my time working with our clients in the commercial lending group to determine requirements and create technical designs. Our development team had a very close working relationship with our business partners. This fostered an extremely collaborative working environment.
 
-### LendingTree - Developer
+### LendingTree - Software Developer
 **August 2005 - September 2007**
 
 As a middle tier developer at LendingTree.com I was responsible for the development and support of systems that match consumers with lenders known internally as filters. These systems supported heavy volume and were considered critical to the organization’s operational ability. This provided me with great exposure to the operational requirements and discipline of a mature .com business.
@@ -52,7 +52,7 @@ As a middle tier developer at LendingTree.com I was responsible for the developm
 
 This was an opportunity to work with a small startup. After working for large institutions up to this point it was a different challenge. It forced me to wear many hats including working with several customers concurrently and balancing priorities in a high stakes atmosphere. We developed mobile inspection systems for city and county code enforcement organizations. Our systems provided mobile, mostly Blackberry, interfaces that were used in the field by inspectors and interfaced with legacy systems. 
 
-### Wachovia Bank - Developer
+### Wachovia Bank - Software Developer
 **June 2003 - October 2004**
 
 In this position I worked with Wealth Management business analysts and project managers to analyze business requirements and determine technical requirements and application design. My largest contribution to the group was the design and implementation of an object model that encapsulated several business entities used throughout the business unit’s applications. This object model was a reusable library and addressed the recurring problem of developers repeatedly writing complex inline SQL statements, sometimes joining as many as six or seven tables to retrieve account information. The object model introduced the team to the concept of true object oriented programming and domain models which it embraced.
