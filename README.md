@@ -25,7 +25,7 @@ I am a bitcoiner. I believe strongly in the need for decentralized hard money. I
 
 ## Professional Experience
 
-### Federal Reserve Board of Governors - IT Manager
+### Federal Reserve Board of Governors - AppDev IT Manager
 **November 2018 – present**
 
 After years of providing technical leadership to projects at the Federal Reserve, I transitioned into a management role. This has provided me with experience in recruiting and inspiring technologists. I have extended the technical depth of the team without compromising positive team chemistry. We addressed lack of knowledge depth on projects by deprecating legacy solutions, swarming on high priority efforts, and introducing Agile SCRUM on new efforts and Kanban for legacy application support.
