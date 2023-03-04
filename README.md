@@ -6,13 +6,15 @@ I am a bitcoiner. I believe strongly in the need for decentralized hard money. I
 
 ## How to find me?
 
-- Twitter: @RunMelvin https://twitter.com/RunMelvin
+- nostr: npub10fwmj7wvkz5tufhlqqpzehdgnzu2d0vpch3nvv4dk2cldkmwpyhq672jxs
 
-- Email: lonestarr.xyz@gmail.com
+- twitter: @RunMelvin https://twitter.com/RunMelvin
 
-- Phone: 704-968-2858
+- email: lonestarr.xyz@gmail.com
 
-- Github: https://github.com/lonestarr-btc
+- phone: 704-968-2858
+
+- github: https://github.com/lonestarr-btc
 
 ## Bitcoin Experience
 
