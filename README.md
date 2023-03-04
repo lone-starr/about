@@ -57,7 +57,7 @@ This was an opportunity to work with a small startup. After working for large in
 
 In this position I worked with Wealth Management business analysts and project managers to analyze business requirements and determine technical requirements and application design. My largest contribution to the group was the design and implementation of an object model that encapsulated several business entities used throughout the business unit’s applications. This object model was a reusable library and addressed the recurring problem of developers repeatedly writing complex inline SQL statements, sometimes joining as many as six or seven tables to retrieve account information. The object model introduced the team to the concept of true object oriented programming and domain models which it embraced.
 
-### Volvo Commercial Finance - Senior Development Analyst
+### Volvo Commercial Finance - Senior Software Developer
 **April 2001 - June 2003**
 
 I was hired as a developer on the company’s newly established web based credit card management application. After working initially on general support and development of the web application I was tagged to design and develop the Flex Bill automatic payment solution. This effort required me to work with our providers to develop backend processes for debiting accounts as well as develop the web front end. Sole developer on end-to-end payment processing. Volvo ran the credit card business as a start-up, very small subsiderary.
