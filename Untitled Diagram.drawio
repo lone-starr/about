@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T13:35:56.339Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.4" etag="WvChymQ7UeJw2iCrPLef" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T21:35:27.418Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CIB8ynMxFy3ZRziJgtgc" version="21.7.4" type="github">
   <diagram name="Page-1" id="rrl04GfFuG3I-2LYcEfH">
-    <mxGraphModel>
+    <mxGraphModel dx="1314" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YvyprUNCdSfGG78YmmWd-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-7" value="&lt;h3 style=&quot;&quot;&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="330" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-1" value="Greenlight&lt;br&gt;Python API" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="924" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-2" value="Django REST API" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="765" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvyprUNCdSfGG78YmmWd-1" target="YvyprUNCdSfGG78YmmWd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="914" as="sourcePoint" />
+            <mxPoint x="480" y="884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-5" value="Express Node.js REST API" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="YvyprUNCdSfGG78YmmWd-2" target="YvyprUNCdSfGG78YmmWd-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="780" as="sourcePoint" />
+            <mxPoint x="480" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-8" value="Secured Network Boundary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="688" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-9" value="https port 443 only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="665" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-10" value="React client" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YvyprUNCdSfGG78YmmWd-5" target="YvyprUNCdSfGG78YmmWd-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="510" as="sourcePoint" />
+            <mxPoint x="365" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YvyprUNCdSfGG78YmmWd-14" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
