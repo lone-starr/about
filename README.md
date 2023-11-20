@@ -8,13 +8,13 @@ I am a bitcoiner. I believe strongly in the need for decentralized hard money. I
 
 - nostr: npub10fwmj7wvkz5tufhlqqpzehdgnzu2d0vpch3nvv4dk2cldkmwpyhq672jxs
 
-- twitter: @RunMelvin https://twitter.com/RunMelvin
+- twitter: @LonestarrXyz https://twitter.com/LonestarrXyz
 
 - email: lonestarr.xyz@gmail.com
 
 - phone: 704-968-2858
 
-- github: https://github.com/lonestarr-btc
+- github: https://github.com/lone-starr
 
 ## Bitcoin Experience
 
